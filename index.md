@@ -10,3 +10,7 @@ Aber am Ende sind beide immer vereint und ausgesöhnt.
 * hilfreich
 * freundlich
 * geduldig
+
+Zitat:
+> Gromit kann leider nicht sprechen.
+> Dafür ist seine Mimik um so sprechender.
